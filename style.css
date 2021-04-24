@@ -17,9 +17,9 @@ header {
   place-items: center;
   color: white;
 }
-#logo img{
+#logo img {
   height: 45px;
-    width: 54px;
+  width: 54px;
 }
 #navbar {
   display: flex;
@@ -39,8 +39,15 @@ header {
   padding: 20px;
 }
 
+#outer_fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 #welcome {
-  background: url("./images/home_screen2.jpg");
+  background: url("./images/home_screen.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -54,7 +61,6 @@ header {
   align-items: center;
   justify-content: center;
 }
-
 img {
   width: 100%;
   height: 50%;
@@ -70,7 +76,6 @@ img {
   text-align: center;
   color: white;
 }
-
 
 #about-me {
   background: linear-gradient(180deg, #1b1919, rgb(158, 91, 91));
@@ -101,7 +106,7 @@ img {
   color: white;
   box-shadow: 3px 7px 5px black;
   height: auto;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 .card {
   /* padding: 20px; */
