@@ -44,7 +44,7 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: rgb(43, 38, 38);
+  /* background-color: rgb(43, 38, 38); */
   background-attachment: fixed;
 
   height: 100vh;
