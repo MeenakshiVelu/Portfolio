@@ -79,7 +79,8 @@ img {
 
 #about-me {
   background: linear-gradient(180deg, #1b1919, rgb(158, 91, 91));
-  padding: 100px 5% 100px 5%;
+  /*padding: 100px 5% 100px 5%;*/
+    padding: 20px ;
   font-size: 20px;
   color: white;
 }
