@@ -100,7 +100,7 @@ img {
   color: white;
   box-shadow: 3px 7px 5px black;
   height: auto;
-  font-family: cursive;
+  font-family: 'PT Sans', sans-serif;
 }
 .card {
   /* padding: 20px; */
