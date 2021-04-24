@@ -42,7 +42,7 @@ header {
 #welcome {
   background: url("./images/home_screen.jpg");
   background-size: cover;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-position: center;
   background-color: rgb(43, 38, 38);
   background-attachment: fixed;
